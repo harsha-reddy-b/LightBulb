@@ -1,0 +1,14 @@
+#lb{
+    width: 300px;
+    margin-top: 300px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#btn{
+    background-color: rgba(245, 245, 220, 0.205);
+    margin-left: 25px;
+}
+body{
+    background-color: rgba(246, 244, 193, 0.505);
+}
